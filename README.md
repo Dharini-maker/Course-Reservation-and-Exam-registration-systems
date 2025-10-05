@@ -42,10 +42,6 @@ Specifying the context and requirements of a system
 
 <img width="1230" height="1000" alt="5usecase" src="https://github.com/user-attachments/assets/d3345537-1477-4bb0-aa7f-bf035a21ca61" />
 
-
-
-
-
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -72,7 +68,6 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 <img width="1222" height="991" alt="5comm" src="https://github.com/user-attachments/assets/de7f171a-0467-41e7-8347-c84638304268" />
 
 
-
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -82,11 +77,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
 <img width="1212" height="982" alt="5pack" src="https://github.com/user-attachments/assets/a1fa8564-09c1-4b13-96c6-4d4d1665fa22" />
-
-
 
 
 # ACTIVITY DIAGRAM:
