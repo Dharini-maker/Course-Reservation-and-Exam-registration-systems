@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040072
+# Name:S.Dharini
+# Date:05.10.2025
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1230" height="1000" alt="5usecase" src="https://github.com/user-attachments/assets/d3345537-1477-4bb0-aa7f-bf035a21ca61" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1226" height="997" alt="5class" src="https://github.com/user-attachments/assets/ad726da0-d132-47ea-8158-0f2b07686d9e" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1222" height="991" alt="5comm" src="https://github.com/user-attachments/assets/de7f171a-0467-41e7-8347-c84638304268" />
 
 
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1212" height="982" alt="5pack" src="https://github.com/user-attachments/assets/a1fa8564-09c1-4b13-96c6-4d4d1665fa22" />
 
 
 
@@ -97,8 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="832" height="923" alt="5act" src="https://github.com/user-attachments/assets/6547435c-cf2b-436c-8f37-0f7421768965" />
 
 
 # SEQUENCE DIAGRAM
@@ -118,8 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
+<img width="1232" height="1001" alt="5seq" src="https://github.com/user-attachments/assets/3b46adb2-3553-4e75-bb82-3d53619ad26a" />
 
 
 
