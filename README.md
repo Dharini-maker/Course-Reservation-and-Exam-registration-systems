@@ -2,7 +2,7 @@
 
 # Reg No:212224040072
 # Name:S.Dharini
-# Date:05.10.2025
+# Date:07.10.2025
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+![5usecase](https://github.com/user-attachments/assets/6c7d2f3b-0d01-411c-8a4c-8fbe76377fb7)
 
 
 # CLASS DIAGRAM
@@ -55,14 +56,16 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1270" height="1013" alt="5class" src="https://github.com/user-attachments/assets/b49e025e-25c6-4fc6-bee8-e48cedb79bbb" />
 
 
-# COMMUNICTION DIAGRAM:
+# COMMUNICATION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1257" height="1017" alt="5comm" src="https://github.com/user-attachments/assets/24e82cea-9142-4f38-ba8e-86b48c69ab33" />
 
 
 # PACKAGE DIAGRAM:
@@ -73,6 +76,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="795" height="404" alt="5pack" src="https://github.com/user-attachments/assets/dc3300dd-49ae-4dee-9993-2c3f38010257" />
 
 
 
@@ -88,6 +92,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1265" height="1002" alt="5act" src="https://github.com/user-attachments/assets/cc65ce1e-db69-4d11-9b01-ddbf8e69ff0e" />
 
 
 # SEQUENCE DIAGRAM
@@ -107,6 +112,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1263" height="1008" alt="5seq" src="https://github.com/user-attachments/assets/50218344-b520-455b-8321-b697a13c3fa9" />
 
 
 
